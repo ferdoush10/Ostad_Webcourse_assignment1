@@ -73,7 +73,7 @@ body {
   color: #d1d5db;
   font-size: 1.875rem;
   font-weight: 600;
-  font-family: "Lato", sans-serif;
+  font-family: sans-serif;
 }
 
 .des-container > h2:hover {
@@ -87,8 +87,7 @@ body {
 
 .bio-info > p {
   color: #9ca3af;
-  font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New",
-    monospace;
+  font-family: 'Times New Roman', Times, serif;
   font-size: 0.875rem;
   line-height: 0.75rem;
 }
